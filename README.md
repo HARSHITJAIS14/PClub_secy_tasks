@@ -13,3 +13,12 @@ a.defined a dense layer with 1 unit and input dim=8 got and r2 score of 88%
 
 
 ## Task3: Computer Vision
+### Data Collection
+At first tried to find the dataset but never got mask faces with male female label so i tried to apply mask using a project by someone on git didn't workout and then i searched again for the dataset and found it.
+### Making Tensorflow cnn model and training over it
+used conv2d ,maxpool ,and Dense and flatten in a sequential model as a architecture for the model and then deployed the gradio interface
+got an accuracy of 93% on test data
+
+
+## Task2:NLP
+### Data preprocess
