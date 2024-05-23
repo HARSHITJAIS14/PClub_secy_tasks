@@ -22,6 +22,7 @@ got an accuracy of 93% on test data <br>
 <br> also tried to make a gradio interface
 ### for best view visit kaggle link --- https://www.kaggle.com/code/harshitjais14/task3-ipynb
 ### dataset link---- https://www.kaggle.com/datasets/itsshuvra/gender-classified-dataset-with-masked-face
+### link to weights of model ---- https://www.kaggle.com/code/harshitjais14/task3-ipynb/output
 
 ## Task2:NLP
 ### Data preprocess
