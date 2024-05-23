@@ -19,7 +19,7 @@ At first tried to find the dataset but never got mask faces with male female lab
 used conv2d ,maxpool ,and Dense and flatten in a sequential model as a architecture for the model and then deployed the gradio interface
 got an accuracy of 93% on test data <br>
 <br> also tried to make a gradio interface
-### for best view visit kaggle link --- 
+### for best view visit kaggle link --- https://www.kaggle.com/code/harshitjais14/task3-ipynb
 
 ## Task2:NLP
 ### Data preprocess
@@ -28,4 +28,4 @@ First i have converted the paragraphs to sentences and stored them in another da
 a.used the knowledge of semantic learning and applied it using link-https://www.sbert.net/examples/applications/semantic-search/README.html <br>
 b. made functions to answer query using bert model and also to list top 5para and then integrated them to make an interactive session with user <br>
 c. made a gradio interface where one can put query and get an answer and the top 5 paragraphs <br>
-### for best view visit kaggle link --
+### for best view visit kaggle link --https://www.kaggle.com/code/harshitjais14/querysearch
