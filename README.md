@@ -1,6 +1,6 @@
 #  PClub_secy_tasks
-##Task 2: Machine Learning
-###Data Collection
+## Task 2: Machine Learning
+### Data Collection
 a.First of all i went on kaggle to search for all the data related to lung and lung capacity from there i got a dataset of lung capacity link- https://www.kaggle.com/datasets/sulaimanahmed/lung-capacity-data 
 b.Then i did research b/w relation of lungcapacity with tidal volume and weight with tidal volume link-https://journals.lww.com/ccejournal/fulltext/2021/05000/impact_of_height_estimation_on_tidal_volume.13.aspx   and also used ideal body weight and then used both these estimation to avereage .
 c.deleted all the unnecessary columns from the dataset and dealt with null values.
@@ -12,4 +12,4 @@ c.best model was lineaer regression
 a.defined a dense layer with 1 unit and input dim=8 got and r2 score of 88%
 
 
-##Task3: Computer Vision
+## Task3: Computer Vision
